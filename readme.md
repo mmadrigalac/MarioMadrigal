@@ -7,13 +7,13 @@
 As a `postinstall` script.
 
 ```bash
-npm install gaboesquivel
+npm install mmadrigal
 ```
 
 As a JSON object.
 
 ```js
-console.log(require('gaboesquivel'));
+console.log(require('mmadrigal'));
 ```
 
 # credits
